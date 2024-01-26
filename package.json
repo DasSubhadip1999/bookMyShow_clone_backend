@@ -1,0 +1,24 @@
+{
+  "name": "bookmyshow_backend",
+  "version": "1.0.0",
+  "description": "This is the repository of book my show clone backend which will contain all the microservices used to build it.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo 'test is ok'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasSubhadip1999/bookMyShow_clone_backend.git"
+  },
+  "keywords": [
+    "BookMyShow_Backend_Clone",
+    "Microservices_Project",
+    "Microservices_with_NodeJs"
+  ],
+  "author": "https://github.com/DasSubhadip1999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DasSubhadip1999/bookMyShow_clone_backend/issues"
+  },
+  "homepage": "https://github.com/DasSubhadip1999/bookMyShow_clone_backend#readme"
+}
